@@ -3,4 +3,4 @@
 
 ### Задание 1
 
-<img scr = "img1.png" width = 100%>
+<img src = "img/img1.png" width = 100%>
